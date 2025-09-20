@@ -19,7 +19,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-             background-image: url('дала.jpg');
+             background-image: url('Дала.jpg');
         }
 
         .container {
